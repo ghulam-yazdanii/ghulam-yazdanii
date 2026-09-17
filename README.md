@@ -1,58 +1,77 @@
-# Hi, I'm Ghulam Yazdani 👋
+# Ghulam Yazdani
 
-## 🚀 About Me
+### AI-Powered Digital Marketer | CS Student | Building with AI
 
-I am a Computer Science student from Karachi, Pakistan. I am passionate about Artificial Intelligence, Prompt Engineering, Web Development, and solving real-world problems with technology.
+I’m Ghulam Yazdani, a Computer Science student from Karachi, Pakistan, focused on using **AI, digital marketing, and technology** to build practical solutions and grow businesses.
 
-I enjoy learning new skills, building practical projects, and continuously improving myself. My goal is to become a skilled Software Engineer and work with international companies.
-
----
-
-## 💻 Current Learning
-
-- HTML5
-- CSS3
-- JavaScript
-- Prompt Engineering
-- Artificial Intelligence
-- Git & GitHub
+I’m especially interested in **AI-assisted marketing, content strategy, social media growth, SEO, prompt engineering, and AI-powered workflows**. I also build professional websites and digital experiences with modern tools and AI-assisted development.
 
 ---
 
-## 🛠 Skills
+## What I Do
 
-- Prompt Engineering
-- HTML5
-- CSS3
-- VS Code
-- Canva
-- Customer Service
-- Communication
-- Problem Solving
-- Teamwork
-- Adaptability
-- Quick Learning
+- **Digital Marketing** — social media, content strategy, SEO, lead generation
+- **AI for Business** — research, content workflows, productivity, and automation concepts
+- **Prompt Engineering** — structured prompting and AI-assisted problem solving
+- **Content & Creative** — short-form video, visual content, typography, and AI-assisted design
+- **Web Development** — responsive websites using HTML, CSS, JavaScript, and AI-assisted development
+- **Business Growth** — audience research, competitor research, organic growth, and e-commerce marketing
 
 ---
 
-## 🎯 2026 Goals
+## Tech & AI Toolkit
 
-- Build strong GitHub projects
-- Learn Full Stack Development
-- Create AI-powered applications
-- Build a professional portfolio
-- Secure a Software Engineering internship
+**AI:** ChatGPT · Claude · Claude Code · Gemini · Perplexity · NotebookLM · Microsoft Copilot · DeepSeek
 
----
+**Creative & Content:** Canva · Midjourney · ElevenLabs · Higgsfield · Nano Banana
 
-## 📫 Connect With Me
+**Development:** HTML5 · CSS3 · JavaScript · Git · GitHub · VS Code · Cursor AI · Antigravity
 
-📍 Karachi, Pakistan
-
-📧 Email: YazdaniYazdani761@gmail.com
-
-💼 LinkedIn: (Add your LinkedIn profile link here)
+**Marketing:** SEO · Social Media Marketing · Content Strategy · Lead Generation · E-commerce Marketing · AI-assisted Marketing
 
 ---
 
-⭐ Thank you for visiting my profile!
+## Featured Work
+
+### Gul & Grace — Digital Marketing Case Study
+
+A real-world e-commerce/social media project where I work on **social media management, content strategy, audience research, competitor research, organic content, and customer acquisition**.
+
+### Web Projects
+
+I build responsive websites and landing pages with a focus on **clean UI, responsive design, practical functionality, and AI-assisted development**.
+
+---
+
+## Currently Learning
+
+- AI-powered digital marketing
+- Generative AI & AI workflows
+- Advanced prompt engineering
+- JavaScript & modern web development
+- Git & GitHub best practices
+- Business growth and e-commerce marketing
+
+---
+
+## 2026 Focus
+
+> **Build real projects. Develop valuable skills. Create measurable results.**
+
+- Build a stronger portfolio of practical projects
+- Develop AI-powered marketing workflows
+- Improve web development fundamentals
+- Document projects and learning publicly
+- Gain professional experience through real client and business work
+
+---
+
+## Let's Connect
+
+- **Location:** Karachi, Pakistan
+- **Email:** YazdaniYazdani761@gmail.com
+- **GitHub:** [@ghulam-yazdanii](https://github.com/ghulam-yazdanii)
+
+---
+
+*I’m building at the intersection of AI, marketing, technology, and entrepreneurship.*
