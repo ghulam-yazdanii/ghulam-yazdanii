@@ -69,7 +69,7 @@ I build responsive websites and landing pages with a focus on **clean UI, respon
 ## Let's Connect
 
 - **Location:** Karachi, Pakistan
-- **Email:** YazdaniYazdani761@gmail.com
+- **Email:** ghulamyazdani.ai@gmail.com
 - **GitHub:** [@ghulam-yazdanii](https://github.com/ghulam-yazdanii)
 
 ---
