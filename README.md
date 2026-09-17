@@ -1,77 +1,61 @@
 # Ghulam Yazdani
 
-### AI-Powered Digital Marketer | CS Student | Building with AI
+### AI-Powered Digital Marketer | CS Student
 
-I’m Ghulam Yazdani, a Computer Science student from Karachi, Pakistan, focused on using **AI, digital marketing, and technology** to build practical solutions and grow businesses.
+I’m a Computer Science student from Karachi, Pakistan, interested in the space where **digital marketing, AI, and technology** meet.
 
-I’m especially interested in **AI-assisted marketing, content strategy, social media growth, SEO, prompt engineering, and AI-powered workflows**. I also build professional websites and digital experiences with modern tools and AI-assisted development.
+My work is mostly practical: helping businesses improve their online presence, researching audiences and competitors, creating content, exploring SEO and e-commerce, and using AI tools to make everyday marketing work faster and more useful. I also build responsive websites and small digital projects when a project needs them.
 
----
+## What I Work On
 
-## What I Do
+- Digital marketing and social media
+- Content strategy and short-form content
+- SEO and organic growth
+- Lead generation and e-commerce marketing
+- Prompt engineering and AI-assisted workflows
+- AI-assisted graphics, video, and typography
+- Responsive websites and landing pages
 
-- **Digital Marketing** — social media, content strategy, SEO, lead generation
-- **AI for Business** — research, content workflows, productivity, and automation concepts
-- **Prompt Engineering** — structured prompting and AI-assisted problem solving
-- **Content & Creative** — short-form video, visual content, typography, and AI-assisted design
-- **Web Development** — responsive websites using HTML, CSS, JavaScript, and AI-assisted development
-- **Business Growth** — audience research, competitor research, organic growth, and e-commerce marketing
+## Tools I Use
 
----
+**AI & Research:** ChatGPT · Claude · Claude Code · Gemini · Perplexity · NotebookLM · Microsoft Copilot · DeepSeek
 
-## Tech & AI Toolkit
+**Creative:** Canva · Midjourney · ElevenLabs · Higgsfield · Nano Banana
 
-**AI:** ChatGPT · Claude · Claude Code · Gemini · Perplexity · NotebookLM · Microsoft Copilot · DeepSeek
+**Development:** HTML · CSS · JavaScript · Git · GitHub · VS Code · Cursor AI · Antigravity
 
-**Creative & Content:** Canva · Midjourney · ElevenLabs · Higgsfield · Nano Banana
+## Selected Work
 
-**Development:** HTML5 · CSS3 · JavaScript · Git · GitHub · VS Code · Cursor AI · Antigravity
+### Gul & Grace
 
-**Marketing:** SEO · Social Media Marketing · Content Strategy · Lead Generation · E-commerce Marketing · AI-assisted Marketing
-
----
-
-## Featured Work
-
-### Gul & Grace — Digital Marketing Case Study
-
-A real-world e-commerce/social media project where I work on **social media management, content strategy, audience research, competitor research, organic content, and customer acquisition**.
+A real-world e-commerce and social media project where I work across content, social media management, audience research, competitor research, organic growth, and customer acquisition.
 
 ### Web Projects
 
-I build responsive websites and landing pages with a focus on **clean UI, responsive design, practical functionality, and AI-assisted development**.
+I build responsive websites and landing pages with a focus on clean interfaces, useful interactions, and a straightforward user experience.
 
----
+## What I’m Learning Now
 
-## Currently Learning
-
-- AI-powered digital marketing
-- Generative AI & AI workflows
+- AI-powered marketing workflows
+- Generative AI and practical AI use cases
 - Advanced prompt engineering
-- JavaScript & modern web development
-- Git & GitHub best practices
-- Business growth and e-commerce marketing
-
----
+- JavaScript and modern web fundamentals
+- Git and GitHub best practices
+- E-commerce and business growth
 
 ## 2026 Focus
 
-> **Build real projects. Develop valuable skills. Create measurable results.**
+> Build real projects, keep learning, and turn useful skills into measurable work.
 
-- Build a stronger portfolio of practical projects
-- Develop AI-powered marketing workflows
-- Improve web development fundamentals
-- Document projects and learning publicly
-- Gain professional experience through real client and business work
+I’m building my portfolio around practical work rather than just collecting tools or certificates. The goal is to keep improving, document what I build, and work with businesses where I can create real value.
 
----
+## Contact
 
-## Let's Connect
-
-- **Location:** Karachi, Pakistan
 - **Email:** ghulamyazdani.ai@gmail.com
+- **Location:** Karachi, Pakistan
+- **Portfolio:** [ghulam-yazdanii.github.io](https://ghulam-yazdanii.github.io)
 - **GitHub:** [@ghulam-yazdanii](https://github.com/ghulam-yazdanii)
 
 ---
 
-*I’m building at the intersection of AI, marketing, technology, and entrepreneurship.*
+*Building at the intersection of marketing, AI, technology, and business.*
